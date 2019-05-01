@@ -1,0 +1,1002 @@
+2019-05-01 15:29:42.241 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:29:42.241 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:29:42.259 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:29:42.259 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:29:42.262 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:29:42.262 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:29:42.354 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@2ead605b[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:29:42.354 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@2ead605b[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:29:42.376 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:29:42.376 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:29:42.378 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:29:42.378 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:29:42.411 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:29:42.411 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:29:42.692 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@2ead605b[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:29:42.692 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@2ead605b[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@6f89bfcb[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:29:42.730 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:29:42.730 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:29:42.731 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:29:42.731 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:29:42.735 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:29:42.735 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:29:42.739 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:10.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:29:42.739 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:10.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:29:42.742 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:10.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:29:42.742 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:10.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:08.461 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:30:08.461 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:30:08.467 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:30:08.467 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:30:08.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:30:08.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:30:08.489 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:30:08.489 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:30:08.494 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:30:08.494 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:30:08.501 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:30:08.501 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:30:08.504 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:30:08.504 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:30:08.510 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:30:08.510 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:30:08.521 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:14.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:08.521 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:14.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:08.524 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:14.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:08.524 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:14.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:38.462 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:30:38.462 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:30:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:30:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:30:38.473 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:30:38.473 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:30:38.480 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@313e23c8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@5bba409a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:30:38.480 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@313e23c8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@5bba409a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:30:38.484 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@313e23c8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@5bba409a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:30:38.484 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@313e23c8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@5bba409a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:30:38.492 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:30:38.492 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:30:38.494 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:30:38.494 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:30:38.498 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:30:38.498 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:30:38.503 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:18.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:38.503 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:18.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:38.506 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:18.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:30:38.506 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:18.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:08.458 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:31:08.458 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:31:08.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:31:08.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:31:08.470 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:31:08.470 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:31:08.475 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@664497a6[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@61e7eb9b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:31:08.475 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@664497a6[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@61e7eb9b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:31:08.482 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@664497a6[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@61e7eb9b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:31:08.482 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@664497a6[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@61e7eb9b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:31:08.540 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:31:08.540 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:31:08.541 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:31:08.541 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:31:08.544 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:31:08.544 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:31:08.549 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:22.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:08.549 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:22.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:08.551 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:22.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:08.551 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:22.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:38.461 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:31:38.461 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:31:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:31:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:31:38.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:31:38.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:31:38.477 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@2a98b599[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@488ed9a9[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:31:38.477 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@2a98b599[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@488ed9a9[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:31:38.481 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@2a98b599[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@488ed9a9[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:31:38.481 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@2a98b599[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@488ed9a9[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:31:38.538 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:31:38.538 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:31:38.541 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:31:38.541 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:31:38.546 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:31:38.546 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:31:38.551 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:26.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:38.551 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:26.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:38.555 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:26.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:31:38.555 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:26.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:08.459 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:08.459 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:08.478 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:08.478 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:08.484 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:08.484 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:08.489 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@4653bd15[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@59a0598b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:08.489 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@4653bd15[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@59a0598b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:08.491 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@4653bd15[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@59a0598b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:08.491 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@4653bd15[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@59a0598b[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:08.504 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:08.504 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:08.505 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:08.505 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:08.507 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:08.507 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:08.513 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:30.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:08.513 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:30.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:08.514 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:30.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:08.514 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:30.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:38.462 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:38.462 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:38.468 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:38.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:38.472 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:38.477 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@49e06f31[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@683a5740[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:38.477 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@49e06f31[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@683a5740[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:38.481 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@49e06f31[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@683a5740[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:38.481 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@49e06f31[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@683a5740[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:38.539 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:38.539 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:38.540 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:38.540 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:38.543 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:38.543 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:38.546 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:34.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:38.546 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:34.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:38.548 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:34.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:38.548 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:34.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:54.300 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:54.300 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:32:54.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:54.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:32:54.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:54.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:32:54.332 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:54.332 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:32:54.335 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:54.335 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:32:54.397 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:54.397 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:32:54.398 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:54.398 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:32:54.402 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:54.402 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:32:54.406 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:38.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:54.406 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:38.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:54.411 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:38.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:32:54.411 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:38.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:08.460 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:08.460 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:08.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:08.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:08.471 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:08.471 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:08.476 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@600bfac8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@194d867e[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:08.476 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@600bfac8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@194d867e[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:08.499 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@600bfac8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@194d867e[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:08.499 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@600bfac8[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@194d867e[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:08.505 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:08.505 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:08.508 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:08.508 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:08.512 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:08.512 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:08.522 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:42.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:08.522 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:42.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:08.524 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:42.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:08.524 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:42.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:22.133 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:22.133 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:22.142 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:22.142 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:22.145 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:22.145 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:22.149 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:22.149 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:22.152 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:22.152 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@14b33a39[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@234ae5f3[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:22.166 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:22.166 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:22.168 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:22.168 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:22.170 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:22.170 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:22.174 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:46.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:22.174 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:46.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:22.175 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:46.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:22.175 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:46.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:38.460 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:38.460 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:33:38.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:38.466 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:33:38.470 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:38.470 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:33:38.475 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@1444f3a2[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@47edf618[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:38.475 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@1444f3a2[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@47edf618[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:33:38.479 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@1444f3a2[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@47edf618[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:38.479 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@1444f3a2[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@47edf618[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:33:38.545 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:38.545 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:33:38.547 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:38.547 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:33:38.551 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:38.551 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:33:38.555 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:50.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:38.555 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:50.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:38.559 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:50.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:33:38.559 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:50.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:43.523 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:34:43.523 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 1
+2019-05-01 15:34:43.532 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:34:43.532 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 2
+2019-05-01 15:34:43.535 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:34:43.535 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 3
+2019-05-01 15:34:43.548 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:34:43.548 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]]
+2019-05-01 15:34:43.552 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:43.552 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@337b474c[idApuesta=1,importe=2.0,idUsuario=2,fecha=2019-05-01 13:49:22.0,ganancias=4.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@4ec550a[numLinea=1,idApuesta=1,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:43.615 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:43.615 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:43.616 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:43.616 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:43.620 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:43.620 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:43.628 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:54.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:43.628 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:54.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:43.632 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:54.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:43.632 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:54.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:43.967 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 15:34:43.967 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 15:34:47.164 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@60295142[idApuesta=2,importe=1.0,idUsuario=2,fecha=2019-05-01 13:53:46.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:34:47.164 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@60295142[idApuesta=2,importe=1.0,idUsuario=2,fecha=2019-05-01 13:53:46.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:34:47.172 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:34:47.172 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:34:47.176 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:34:47.176 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:34:47.181 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:34:47.181 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:34:47.282 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@60295142[idApuesta=2,importe=1.0,idUsuario=2,fecha=2019-05-01 13:53:46.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:47.282 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@60295142[idApuesta=2,importe=1.0,idUsuario=2,fecha=2019-05-01 13:53:46.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@5e57df85[numLinea=1,idApuesta=2,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:47.314 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:47.314 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:47.320 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:47.320 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:47.323 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:47.323 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:47.328 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:56.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:47.328 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:56.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:47.331 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:56.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:47.331 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:56.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:47.409 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 15:34:47.409 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 15:34:49.433 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@74c0bd2a[idApuesta=3,importe=1.0,idUsuario=2,fecha=2019-05-01 13:54:06.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:34:49.433 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@74c0bd2a[idApuesta=3,importe=1.0,idUsuario=2,fecha=2019-05-01 13:54:06.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 15:34:49.437 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:34:49.437 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 15:34:49.447 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:34:49.447 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 15:34:49.453 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:34:49.453 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 15:34:49.692 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@74c0bd2a[idApuesta=3,importe=1.0,idUsuario=2,fecha=2019-05-01 13:54:06.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:49.692 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@74c0bd2a[idApuesta=3,importe=1.0,idUsuario=2,fecha=2019-05-01 13:54:06.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@b2217b4[numLinea=1,idApuesta=3,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 15:34:49.705 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:49.705 DEBUG UsuarioServiceImpl.findById:48 - Id = 2
+2019-05-01 15:34:49.708 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:49.708 DEBUG UsuarioDAOImpl.findById:47 - Id = 2
+2019-05-01 15:34:49.713 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:49.713 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 2
+2019-05-01 15:34:49.718 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:58.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:49.718 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:58.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:49.720 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:58.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:49.720 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:2, nome:null, email:null, apelidos:null null, banco:58.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 15:34:49.844 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 15:34:49.844 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Bienvenido</h1>
+<p> Enorabuena Pablo has ganado una apuesta, entra en la web para comprobarlo</p>
+
+</body>
+
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:00:51.541 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:00:51.541 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:00:51.702 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@7d644e35[idApuesta=7,importe=1.0,idUsuario=5,fecha=2019-05-01 17:57:58.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:00:51.702 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@7d644e35[idApuesta=7,importe=1.0,idUsuario=5,fecha=2019-05-01 17:57:58.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:00:51.708 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:00:51.708 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:00:51.709 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:00:51.709 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:00:51.754 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:00:51.754 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:00:51.911 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@7d644e35[idApuesta=7,importe=1.0,idUsuario=5,fecha=2019-05-01 17:57:58.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:00:51.911 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@7d644e35[idApuesta=7,importe=1.0,idUsuario=5,fecha=2019-05-01 17:57:58.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@288f7630[numLinea=1,idApuesta=7,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:00:51.950 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:00:51.950 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:00:51.957 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:00:51.957 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:00:51.963 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:00:51.963 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:00:51.968 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:11.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:00:51.968 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:11.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:00:51.971 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:11.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:00:51.971 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:11.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:00:52.628 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:00:52.628 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:01:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:01:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:01:47.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:01:47.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:02:17.328 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:02:17.328 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:02:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:02:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:03:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:03:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:03:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:03:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:04:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:04:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:04:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:04:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:05:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:05:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:05:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:05:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:06:17.321 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:06:17.321 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:06:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:06:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:07:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:07:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:07:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:07:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:08:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:08:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:08:47.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:08:47.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:09:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:09:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:09:17.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:09:17.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:09:17.333 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@556b444d[idApuesta=8,importe=1.0,idUsuario=5,fecha=2019-05-01 18:09:01.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:09:17.333 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@556b444d[idApuesta=8,importe=1.0,idUsuario=5,fecha=2019-05-01 18:09:01.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:09:17.339 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:09:17.339 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:09:17.341 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:09:17.341 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:09:17.344 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:09:17.344 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:09:17.551 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@556b444d[idApuesta=8,importe=1.0,idUsuario=5,fecha=2019-05-01 18:09:01.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:09:17.551 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@556b444d[idApuesta=8,importe=1.0,idUsuario=5,fecha=2019-05-01 18:09:01.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@bbb966a[numLinea=1,idApuesta=8,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:09:17.595 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:09:17.595 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:09:17.597 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:09:17.597 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:09:17.607 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:09:17.607 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:09:17.612 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:12.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:09:17.612 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:12.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:09:17.615 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:12.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:09:17.615 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:12.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:09:17.884 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+clear: both;
+position: relative;
+margin-top: 0px;
+text-align: center;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+h1{
+margin-top:0px;
+}
+
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:09:17.884 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+clear: both;
+position: relative;
+margin-top: 0px;
+text-align: center;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+h1{
+margin-top:0px;
+}
+
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:09:47.323 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:09:47.323 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:09:47.330 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:09:47.330 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:10:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:10:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:10:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:10:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:10:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:10:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:10:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:10:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:11:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:11:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:11:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:11:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:11:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:11:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:11:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:11:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:12:17.325 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:12:17.325 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:12:17.327 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:12:17.327 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:12:47.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:12:47.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:12:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:12:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:13:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:13:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:13:17.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:13:17.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:13:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:13:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:13:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:13:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:14:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:14:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:14:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:14:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:14:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:14:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:14:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:14:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:15:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:15:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:15:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:15:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:15:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:15:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:15:47.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:15:47.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:16:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:16:17.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:16:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:16:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:16:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:16:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:16:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:16:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:17:17.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:17:17.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:17:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:17:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:17:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:17:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:17:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:17:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:17:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:17:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:17:47.324 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@545a84c5[idApuesta=9,importe=1.0,idUsuario=5,fecha=2019-05-01 18:17:28.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:17:47.324 DEBUG ApuestaServiceImpl.comprobarApuesta:147 - ApuestaCriteria = com.pvv.pulbet.model.Apuesta@545a84c5[idApuesta=9,importe=1.0,idUsuario=5,fecha=2019-05-01 18:17:28.0,ganancias=2.0,procesado=0,lineas=[com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=0]]]
+2019-05-01 18:17:47.330 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:17:47.330 DEBUG LineaApuestaServiceImpl.comprobarLinea:39 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=0]
+2019-05-01 18:17:47.336 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:17:47.336 DEBUG EventoDAOImpl.findResultadoFinal:328 - Id = 6
+2019-05-01 18:17:47.340 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:17:47.340 DEBUG LineaApuestaDAOImpl.update:108 - LineaApuesta = com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=1]
+2019-05-01 18:17:47.469 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@545a84c5[idApuesta=9,importe=1.0,idUsuario=5,fecha=2019-05-01 18:17:28.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:17:47.469 DEBUG ApuestaDAOImpl.updateEstado:552 - Apuesta = com.pvv.pulbet.model.Apuesta@545a84c5[idApuesta=9,importe=1.0,idUsuario=5,fecha=2019-05-01 18:17:28.0,ganancias=2.0,procesado=1,lineas=[com.pvv.pulbet.model.LineaApuesta@7fadad58[numLinea=1,idApuesta=9,idResultado=2,idEvento=6,procesado=1]]] 
+2019-05-01 18:17:47.519 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:17:47.519 DEBUG UsuarioServiceImpl.findById:48 - Id = 5
+2019-05-01 18:17:47.527 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:17:47.527 DEBUG UsuarioDAOImpl.findById:47 - Id = 5
+2019-05-01 18:17:47.530 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:17:47.530 DEBUG DireccionDAOImpl.findByUsuario:31 - Id = 5
+2019-05-01 18:17:47.533 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:13.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:17:47.533 DEBUG UsuarioServiceImpl.update:168 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:13.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:17:47.535 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:13.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:17:47.535 DEBUG UsuarioDAOImpl.update:285 - Usuario: id:5, nome:null, email:null, apelidos:null null, banco:13.0, dni:null, fecha:null, nomeUsuario:null, passwordtrue, direccionnull
+2019-05-01 18:17:47.792 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+clear: both;
+position: relative;
+margin-top: 0px;
+text-align: center;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+h1{
+margin-top:0px;
+}
+
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:17:47.792 DEBUG MailServiceImpl.sendMail:19 - Mensaje = <!DOCTYPE html>
+
+<html>
+<head>
+<style>
+body, html {
+	font-family: Verdana, Geneva, Arial, sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	background: #dadacf;
+}
+
+#header {
+width:100%;
+height: 13%;
+background:#14805e;
+color:#ffdf1b;
+border-bottom: 1px solid white;
+}
+
+#footer{
+width:100%;
+height: 10%;
+background:#14805e;
+color:white;
+clear: both;
+position: relative;
+margin-top: 0px;
+text-align: center;
+}
+
+#contenido{
+min-height:75%;
+background: #888;
+color: white;
+}
+h1{
+margin-top:0px;
+}
+
+</style>
+</head>
+<body>
+<div id="header">
+PulBET
+</div>
+
+<div id="contenido">
+<h1>Has ganado una apuesta!</h1>
+<br>
+<h3> Pulbet, FELICIDADES</h3>
+<p> Acabas de ganar una apuesta, entra en la web para comprobarlo</p>
+<div>
+
+<div id="footer">
+<p> Para cualquiera duda o sugerencia podras contactar con nosotros en: pulbetsoporte@gmail.com</p>
+</div>
+</body>
+</html>, subject = Has ganado tu apuesta, to = [pulbetsoporte@gmail.com]
+2019-05-01 18:18:17.306 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:18:17.306 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:18:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:18:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:18:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:18:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:18:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:18:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:18:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:18:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:18:47.320 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:18:47.320 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:19:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:19:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:19:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:19:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:19:17.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:19:17.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:19:47.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:19:47.307 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:19:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:19:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:19:47.318 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:19:47.318 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:20:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:20:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:20:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:20:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:20:17.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:20:17.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:20:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:20:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:20:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:20:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:20:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:20:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:21:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:21:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:21:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:21:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:21:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:21:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:21:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:21:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:21:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:21:47.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:21:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:21:47.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:22:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:22:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:22:17.320 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:22:17.320 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:22:17.324 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:22:17.324 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:22:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:22:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:22:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:22:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:22:47.318 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:22:47.318 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:23:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:23:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:23:17.327 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:23:17.327 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:23:17.333 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:23:17.333 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:23:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:23:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:23:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:23:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:23:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:23:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:24:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:24:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:24:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:24:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:24:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:24:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:24:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:24:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:24:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:24:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:24:47.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:24:47.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:25:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:25:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:25:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:25:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:25:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:25:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:25:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:25:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:25:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:25:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:25:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:25:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:26:17.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:26:17.311 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:26:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:26:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:26:17.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:26:17.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:26:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:26:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:26:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:26:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:26:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:26:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:27:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:27:17.308 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:27:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:27:17.312 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:27:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:27:17.315 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:27:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:27:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:27:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:27:47.316 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:27:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:27:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:28:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:28:17.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:28:17.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:28:17.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:28:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:28:17.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:28:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:28:47.309 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:28:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:28:47.313 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:28:47.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:28:47.317 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:29:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:29:17.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:29:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:29:17.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:29:17.338 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:29:17.338 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:29:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:29:47.310 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 7
+2019-05-01 18:29:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:29:47.314 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 8
+2019-05-01 18:29:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
+2019-05-01 18:29:47.319 DEBUG LineaApuestaDAOImpl.findByApuesta:239 - Id = 9
